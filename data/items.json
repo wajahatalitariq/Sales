@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Golgappay 8 in Plate",
+        "price": 200,
+        "description": "8 crispy puris filled with spicy water and potatoes"
+    },
+    {
+        "id": 2,
+        "name": "Golgappay 12 in Plate",
+        "price": 250,
+        "description": "12 crispy puris filled with spicy water and potatoes"
+    },
+    {
+        "id": 3,
+        "name": "Mint Margarita",
+        "price": 130,
+        "description": "Refreshing mint drink with lemon and soda"
+    },
+    {
+        "id": 4,
+        "name": "Chat in Bag",
+        "price": 250,
+        "description": "Mix of ingredients served in a bag with sauces"
+    },
+    {
+        "id": 5,
+        "name": "Classic Butter Corn",
+        "price": 100,
+        "description": "Sweet corn with butter and spices"
+    },
+    {
+        "id": 6,
+        "name": "Masaa Masti Corn",
+        "price": 150,
+        "description": "Spicy corn with masala and lemon"
+    },
+    {
+        "id": 7,
+        "name": "Super Corn Chaat",
+        "price": 200,
+        "description": "Corn with chaat masala, onions and sauce"
+    },
+    {
+        "id": 8,
+        "name": "Garlic Powder Topping",
+        "price": 10,
+        "description": "Extra garlic powder topping"
+    },
+    {
+        "id": 9,
+        "name": "Cheese Powder Topping",
+        "price": 30,
+        "description": "Extra cheese powder topping"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "01-135231-091",
+        "password": "pbkdf2:sha256:600000$GJoSzBPieNia6EPl$08082945f785b4fc9b0bc602a0237615904caf444a90ac6a3ff4ef7cea918a54"
+    },
+    {
+        "id": 2,
+        "username": "01-135231-041",
+        "password": "pbkdf2:sha256:600000$4dNa1ECitqvDQjvy$05e74c3e658fc7c9dc7f41ab066e7d110509d7c00fbad032405ee37b0c6361c4"
+    }
+]
